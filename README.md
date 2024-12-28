@@ -1,4 +1,4 @@
-# <div align="center">👋 Hey, I'm Marcus Neufeldt</div>
+# <div align="center">👋 Hey, I'm Marcus Neufeldt!</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8AF7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AI+%26+Trading+Systems+Engineer;Building+Tools+That+Matter" alt="Typing SVG" />
